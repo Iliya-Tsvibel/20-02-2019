@@ -1,0 +1,7 @@
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\bin\Debug\2002HW.exe.config
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\bin\Debug\2002HW.exe
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\bin\Debug\2002HW.pdb
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\obj\Debug\2002HW.csprojAssemblyReference.cache
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\obj\Debug\2002HW.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\obj\Debug\2002HW.exe
+C:\Users\itsvibel\Downloads\20.02.2019-master\20.02.2019-master\2002HW\2002HW\obj\Debug\2002HW.pdb
